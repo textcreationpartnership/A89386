@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Motives and reasons, concerning His Highnesse the Prince Elector Palatines comming into England. Presented to both the Honourable Houses of Parliament by His said Highnesse, on Satterday the 14. of September. 1644. With two letters that were formerly sent from the Hagve.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89386</idno>
+            <idno type="STC">Wing M2941</idno>
+            <idno type="STC">Thomason E8_35</idno>
+            <idno type="STC">ESTC R17700</idno>
+            <idno type="EEBO-CITATION">99860249</idno>
+            <idno type="PROQUEST">99860249</idno>
+            <idno type="VID">112366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112366)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Motives and reasons, concerning His Highnesse the Prince Elector Palatines comming into England. Presented to both the Honourable Houses of Parliament by His said Highnesse, on Satterday the 14. of September. 1644. With two letters that were formerly sent from the Hagve.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letters addressed to Lord Gray of Warke, Speaker of the House of Peers and are signed Charles Lodovic, and dated Hagve the 12/22 of Feb., 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Page 5 misnumbered 7.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Karl Ludwig, --  Elector Palatine, 1617-1680.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112366:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>Motives and Reaſons, CONCERNING His Highneſſe the Prince ELECTOR PALATINES comming into <hi>ENGLAND.</hi>
+            </p>
+            <p>Preſented to both the Honourable Houſes of Parliament by His ſaid Highneſſe, on <hi>Satterday</hi> the 14. of September. 1644.</p>
+            <p>
+               <hi>With two Letters that were formerly ſent from the</hi> HAGV<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon used as printer's device</figDesc>
+            </figure>
+            <p>LONDON, Printed by JANE COE.  1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_address">
+            <pb facs="tcp:112366:2"/>
+            <!-- PDF PAGE 93 -->
+            <pb n="1" facs="tcp:112366:2"/>
+            <!-- PDF PAGE 93 -->
+            <head>
+               <hi>Motives</hi> and <hi>Reaſons,</hi> Concerning His Highneſſe the Prince Elector Palatine, His coming into ENGLAND.</head>
+            <head type="sub">Preſented to both the Honourable Houſes of <hi>Parliament,</hi> by his ſaid Highneſſe.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL actions whatſoever being obnoxious to divers cenſures, His <hi>Electorall Highnenſſe,</hi> thought it neceſſary, openly in this kinde to declare Himſelf, and the integrity of his in<g ref="char:EOLhyphen"/>tentions in his preſent coming into this King<g ref="char:EOLhyphen"/>dome; that if it be poſſible, Malignancie might be ſilenced, Candor and Charity moved to ſpeake for the Truth, having made the God of Truth his refuge and confidence; and knowing, that the children of Truth and Innocency (who are neither changed with the frownes nor ſmiles of this inconſtant World) muſt bee his beſt friends, and under God, His greateſt confidence.</p>
+            <p>The preſent troubles of this Kingdome, and his Highneſſe pre<g ref="char:EOLhyphen"/>ſent condition, (both of them from the ſame Supreame Provi<g ref="char:EOLhyphen"/>dence) the great affaires of the Honourable Houſes of Parlia<g ref="char:EOLhyphen"/>ment, and His own neer relation (which will not ſuffer him to ac<g ref="char:EOLhyphen"/>count himſelf a Stranger) will, as he conceiveth, ſuficiently ſa<g ref="char:EOLhyphen"/>tisfie for the manner of his coming, ſince by a ſolemne and Pub<g ref="char:EOLhyphen"/>like warning, He might have ſeemed to expect Ceremonies, in theſe Conjuctures very unſeaſonable.</p>
+            <p>
+               <pb n="2" facs="tcp:112366:3"/>
+               <!-- PDF PAGE 94 -->
+But his Higneſſes reſolution to come at this time, is more ma<g ref="char:EOLhyphen"/>teriall; and may (he now findes) be ſubject to ſuch exception a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his ſinceritie would not permit him to feel or apprehend.</p>
+            <p>That it did not proceed from any ſiniſter intention; his laſt departure out of this Kingdome, his behaviour whileſt he was abroad, and his approving of the Cauſe joyntly proſecuted by theſe Kingdomes; (ſince which time he hath had no reaſon to change, many reaſons to confirm his minde) are reall eviden<g ref="char:EOLhyphen"/>ces. And that it did not ariſe from unjuſt ambition, or deſire to intrude himſelf into the publike affaires of theſe Kingdomes; he chuſeth rather to make really appear againſt all calumnies and jealouſies, of what nature ſoever, by his comportment and acti<g ref="char:EOLhyphen"/>ons, during his abode in this place; then by word or writing. Miſconſtructions are not the leaſt part of the many ſufferings which not onely the innocent, but the moſt deſerving, muſt re<g ref="char:EOLhyphen"/>ſolve to bear, till Truth which is the daughter of Time, make them vaniſh.</p>
+            <p>Neither can his Highneſſe forbear, with unſpeakable grief, to obſerve, that the publike actions of ſome of the neareſt of his blood have been ſuch, as have adminiſtred too much cauſe of ſorrow and jealouſie, even from ſuch perſons, upon whoſe affe<g ref="char:EOLhyphen"/>ctions, in reſpect of their love and zeale to the Reformed Reli<g ref="char:EOLhyphen"/>gion, his Higneſſe doth ſet the greateſt prize. But as his High<g ref="char:EOLhyphen"/>neſſe is not able to regulate what is out of his power, ſo is he confident, that the juſtice of the Parliament and all honeſt men, will not impute ſuch actions to him, as are his afflictions, and not his faults.</p>
+            <p>It muſt needs be known to the Chriſtian world, and to no man ſhould it be better known then to his Highneſſe, that the commotions which exerciſe and diſtract theſe Kingdomes, are originally derived from the ſame Popiſh Principles, ham<g ref="char:EOLhyphen"/>mered upon the ſame Jeſuiticall Anvile, and drive to thoſe
+<pb n="3" facs="tcp:112366:3"/>
+               <!-- PDF PAGE 94 -->Antichriſtian ends; which have brought ſuch deplorable and laſting calamities upon <hi>Germanie.</hi>
+            </p>
+            <p>And his Highneſſe was confident, that the Parliaments, and people of God in theſe Kingdomes, through the juſtice of the Cauſe which they maintain, and their Piety and Wiſedome in the managing thereof, would in the end, by the bleſſing of God prevaile againſt what ever Spain, Rome, or the G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes of Hell could do or deviſe to the contrary. And that, when Truth and Peace ſhould be ſetled in theſe Kingdomes, They out of their zeal to the glory of God, and the true Proteſtant Refor<g ref="char:EOLhyphen"/>med Religion, and in purſuance of their former Chriſtian and favourable Declarations, would direct their Counſels, and bend their power for the relief, deliverance, and reſtitution of the oppreſſed; amongſt which his Electorall Family, by Gods per<g ref="char:EOLhyphen"/>miſſion, whoſe judgements are unſearchable, hath had the dee<g ref="char:EOLhyphen"/>peſt and moſt durab e ſufferings.</p>
+            <p>Theſe and the l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke conſiderations, were the motives of his Highneſſe departure out of this Kingdome, in the beginning of theſe unhappie troubles. To which his Highneſſe muſt alſo adde this important reaſon, That by his abſence he might be free of all counſels and actions, tending to the prejudice of that Cauſe which he ought zealouſly to affect; as having his hope in Heaven, and wherin all his expectations on earth are included.</p>
+            <p>The ſame ſenſe of Religion, and publike Intereſts, hath now drawn him again into this Kingdome, that he may in perſon pro<g ref="char:EOLhyphen"/>feſſe himſelf to be what he is, againſt all jealouſies, inſinnations, and what malice in his abſence might have ſuggeſted againſt him.</p>
+            <p>It needs not to be remembred here, what His Highneſſe Princely Predeceſſors have done for that Religion, ever ſince the bleſſed Reformation, for which he now ſuffers; nor how willingly his enemies would make him reſtitution, of his
+<pb n="4" facs="tcp:112366:4"/>
+               <!-- PDF PAGE 95 -->Dominions, Rights and Dignities, could they perſwade him to become an Enemie to the Truth. But God hath taught him, rather to chooſe Affliction then Iniquity, Perſecution then Impiety. And in this his affliction and perſecution, by many open and ſecret Enemies, whether ſhould He addreſſe himſelfe, but to theſe Kingdoms, which profeſſe and defend the ſame Religion, and are in affliction for the ſame Cauſe, and from which the ſtrong bonds of nature and Chriſtian compaſſion; make him expect ſuch Comfort, Aſſiſtance, and Protection in this time of His exile and diſtreſſes, as his Cold Friends may be heated thereby into more affection, and his Enemies coo<g ref="char:EOLhyphen"/>led of their rage and violence, till God be pleaſed to ſend, firſt unto theſe Kingdomes, and afterwards, by their meanes, to himſelf and His Subject; full deliverance, eſtabliſhment, and Peace.</p>
+            <p>His Electorall Highneſſe, having thus repreſented the rea<g ref="char:EOLhyphen"/>ſon of his coming, and condition of his affaires; in the next place returneth his thankes unto both Houſes of Parliament for their free Declarations and promiſes, of taking his Affairs and intereſts into their care and Conſideration; And as he ſhall ever hold in high eſteem and value the adviſe they ſhall thinke fit to give him, ſo in the particular of his Reſidence at this time in Forraigne parts, His Highneſſe is neceſſitated to offer this to thier conſideration; That he hath many Eenemies abroad, and that they are not a little increaſed, ſince the late Troubles in theſe Kingdomes, and for his porfeſſion to this Cauſe, which will render his abode unpleaſing, and it may be for may reaſons unhappie to him in thoſe parts, where his and their Enemies have as yet ſo great an influence.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="7" facs="tcp:112366:4"/>
+                  <!-- PDF PAGE 95 -->
+                  <head>His Highneſſe the Prince Electors Letter, to the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord <hi>Gray</hi> of <hi>Warke,</hi> Speaker of the Honourable Houſe of Peeres.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>THe pious Loyalty and Generous profeſſions of both Houſes of Parliament for the eſtabliſhment of the true Proteſtant Religion, the Kings honour<g ref="char:punc">▪</g> and happineſſe, and the peace and ſafetie of his Do<g ref="char:EOLhyphen"/>minions, being lately Confirmed by the Covenant, taken joyntly with the Eſtates of Scotland; do give me occaſion, to deſire your favor, in re<g ref="char:EOLhyphen"/>preſenting on my behalfe, to the Honourable houſe of Peeres, the joy<g ref="char:EOLhyphen"/>full Concurrence of my hearty Wiſhes to the ſame effect: beſeeching them, that when they ſhall have obtained it, They will be pleaſed, to conſider my publique Intereſts, with that favour, as they have former<g ref="char:EOLhyphen"/>ly declared in my behalfe. Whereby they will oblige me, ſtill to endea<g ref="char:EOLhyphen"/>vour all means of Gratitude and ſervice towards them; Not doubt<g ref="char:EOLhyphen"/>ing, but the Estates of Scotland will, according to my requeſt upon this occaſion, and their former promiſe, willingly joyne with the Parliament of <hi>England</hi>therein. And I ſhall accknowledge towards your particular the good Office, you will be pleaſed to do me in this bu<g ref="char:EOLhyphen"/>ſineſſe, with no leſſe deſire to prove my ſelf.</p>
+                  <closer>
+                     <dateline>Hague <date>the 12/22 of Febr. 1644.</date>
+                     </dateline>
+                     <signed>Your Lordſhips, <hi>Moſt affectionate friend, to ſerve you: CHARLES LODOVIC.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>His Highneſſe the Prince Electors Letter, to the Hnourable <hi>William Lenthall</hi> Eſquire Speaker of the Honourable Houſe of COMMONS.</head>
+                  <opener>
+                     <salute>Maſter Speaker,</salute>
+                  </opener>
+                  <p>HAving obſerved by the late Covenant, taken by the Honourable Houſes of Parliament of <hi>England,</hi> and the Eſtates of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> a Confirmation of their pies; loyall; and generous Deſignes, formerly expreſſed, for the Eſtabliſhment of the true Proteſtant Religion, the Kings Honour and Happineſſe, and the perfect Peace in his Majeſties Dominions;
+<pb n="4" facs="tcp:112366:5" rendition="simple:additions"/>
+                     <!-- PDF PAGE 96 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="7" facs="tcp:112366:5"/>
+                     <!-- PDF PAGE 96 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:112366:6"/>
+                     <!-- PDF PAGE 97 -->I could not omit, to deſire you herewith, to aſſure that part, wherin you have moſt intereſt, of the contentment I receive thereby, and of my constant and hearty wiſhes, that the effects of thoſe their profeſſions may have a ſpeedy and a happie iſſue. How much my deſires, actions and int<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt have ever concurred therewith, you have been ſuficiently certified by my Servants, Letters, and my own behaviour, ſince theſe unhappy Trou<g ref="char:EOLhyphen"/>bles: And the publike notice, which the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons hath formerly taken of my Families ſufferings, with the particular conſideration, it hath lately had, for the ſupply of my preſent (notwithſtand<g ref="char:EOLhyphen"/>ing its own urgent) neceſſities, is ſo great a tye, beſides what my blood <gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>eth them, upon <gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>e, that I ſhall thinke my ſelfe happy, whenſoever I ſ<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll be enabled to anſwer it with ſome reall and ſerviceable gratitude. In the mean time, I beſeech the ſaid H<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe, that in purſuance of its bounty ſuch Order may bee taken in the ſetling of what hath been aſſigned me, as may render it as effectuall to m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as by the ſaid Houſe it hath been or<g ref="char:EOLhyphen"/>dered and intended; In confidence, that when it ſhall pleaſe God, to bleſſe the endeavours of both Kingdomes, as to ſettle Truth and Peace in <gap reason="illegible: bleedthrough" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> His Majeſties Dominions, the ſaid H<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſe will, according to its for<gap reason="illegible: bleedthrough" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap> Declaration, with no leſſe favour and affection undertake the reeſtabliſ<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ment of my Publicke Intereſts abroad: not doubting, but the E<gap reason="illegible: bleedthrough" extent="4+ letters">
+                        <desc>••••…</desc>
+                     </gap> of <hi>Scotland</hi> will, according to my request to them, upon this occaſion <gap reason="illegible: bleedthrough" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their former promiſe, willingly concurre with the Parliament of <hi>Englan<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> therein.</p>
+                  <p>This is all at this time which I deſire, you would be pleaſed to repreſ<gap reason="illegible: bleedthrough" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t unto the Honourable Houſe of Commons from mee; Which will be <gap reason="illegible: bleedthrough" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> addition of what I owe you for the like favour, whereby you have ob<g ref="char:EOLhyphen"/>li<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ged,</p>
+                  <closer>
+                     <dateline>Hague <date>the 12/22 of fe, 1644.</date>
+                     </dateline>
+                     <signed>Your moſt affectionate firiend: <hi>Charles Lodovic.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
